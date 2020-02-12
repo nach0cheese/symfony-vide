@@ -17,7 +17,7 @@ $ git push develop
 ~~~~
 
 Ensuite sur github vous pourrez aller faire votre PullRequest
-
+Qui sera ensuite soumis à évalution
 
 ~ Pour lancer le projet symfony ~
 
