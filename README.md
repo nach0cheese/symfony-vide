@@ -9,12 +9,12 @@ Pour participer au projet vous devez travailler avec un git flow comme le suivan
 	
 ~ Pour soumettre votre travail ~
 
-	~~~~
-	$ git pull
-	$ git add <vos fichiers modifiés> 
-	$ git commit -m "Votre message de commit"
-	$ git push develop
-	~~~~
+~~~~
+$ git pull
+$ git add <vos fichiers modifiés> 
+$ git commit -m "Votre message de commit"
+$ git push develop
+~~~~
 
 Ensuite sur github vous pourrez aller faire votre PullRequest
 
